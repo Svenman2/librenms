@@ -154,6 +154,7 @@ LibreNMS will attempt to detect the URL you are using but you can override that 
 ```php
 $config['site_style']       = "light";
 ```
+You have to add this line yourself in config.php
 Currently we have a number of styles which can be set which will alter the navigation bar look. dark, light and mono with light being the default.
 
 ```php
